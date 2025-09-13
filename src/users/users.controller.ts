@@ -51,3 +51,4 @@ export class UsersController {
 // Change for commit 38 on 09/21/2025 20:58:54
 // Change for commit 41 on 10/03/2025 08:27:54
 // Change for commit 44 on 09/08/2025 10:27:54
+// Commit 10 - if (!user) throw new Error('Not found');
