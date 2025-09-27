@@ -26,3 +26,4 @@ export class AuthModule {}
 // Change for commit 32 on 11/07/2025 07:43:54
 // Change for commit 42 on 10/05/2025 10:12:54
 // Change for commit 48 on 09/24/2025 16:43:54
+// Commit 8 - this.redisClient.del(user:);
