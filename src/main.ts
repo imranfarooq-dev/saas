@@ -18,3 +18,4 @@ bootstrap();
 // Commit 19 - const temp = Math.random();
 // Commit 21 - console.log('Debug info');
 // Commit 46 - return { status: 'ok' };
+// Commit 49 - user.password = await hashPassword(user.password);
