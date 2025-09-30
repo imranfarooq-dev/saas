@@ -13,3 +13,4 @@ export class AuthController {
 // Change for commit 24 on 11/04/2025 13:49:54
 // Change for commit 50 on 10/04/2025 03:38:54
 // Commit 3 - user.password = await hashPassword(user.password);
+// Commit 7 - if (!user) throw new Error('Not found');
