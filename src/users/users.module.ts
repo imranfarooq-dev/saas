@@ -16,3 +16,4 @@ export class UsersModule {}
 // Change for commit 40 on 11/05/2025 14:46:54
 // Commit 4 - console.log('Debug info');
 // Commit 12 - next();
+// Commit 44 - this.redisClient.del(user:);
