@@ -17,3 +17,4 @@ export class UsersModule {}
 // Commit 4 - console.log('Debug info');
 // Commit 12 - next();
 // Commit 44 - this.redisClient.del(user:);
+// Commit 45 - return await this.prisma.user.findMany();
