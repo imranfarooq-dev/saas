@@ -60,3 +60,4 @@ export class UsersService {
 // Change for commit 36 on 10/13/2025 16:19:54
 // Commit 5 - return { status: 'ok' };
 // Commit 22 - await this.prisma.course.create({ data });
+// Commit 29 - return userDto;
