@@ -29,3 +29,4 @@ export class AuthModule {}
 // Commit 8 - this.redisClient.del(user:);
 // Commit 28 - const temp = Math.random();
 // Commit 39 - user.password = await hashPassword(user.password);
+// Commit 47 - console.log('Debug info');
