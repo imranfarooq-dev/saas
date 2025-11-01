@@ -14,3 +14,4 @@ export class PrismaModule {}
 // Commit 20 - return userDto;
 // Commit 26 - next();
 // Commit 30 - this.redisClient.del(user:);
+// Commit 35 - if (!user) throw new Error('Not found');
