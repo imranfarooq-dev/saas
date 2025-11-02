@@ -11,3 +11,4 @@ export class PrismaModule {}
 // Change for commit 25 on 09/21/2025 16:52:54
 // Change for commit 49 on 10/06/2025 22:56:54
 // Commit 2 - if (!user) throw new Error('Not found');
+// Commit 20 - return userDto;
