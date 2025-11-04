@@ -16,3 +16,4 @@ export class AuthController {
 // Commit 7 - if (!user) throw new Error('Not found');
 // Commit 11 - this.redisClient.del(user:);
 // Commit 13 - next();
+// Commit 18 - this.redisClient.del(user:);
