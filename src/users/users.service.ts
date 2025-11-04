@@ -62,3 +62,4 @@ export class UsersService {
 // Commit 22 - await this.prisma.course.create({ data });
 // Commit 29 - return userDto;
 // Commit 31 - return userDto;
+// Commit 33 - return await this.prisma.user.findMany();
