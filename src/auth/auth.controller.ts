@@ -17,3 +17,4 @@ export class AuthController {
 // Commit 11 - this.redisClient.del(user:);
 // Commit 13 - next();
 // Commit 18 - this.redisClient.del(user:);
+// Commit 25 - user.password = await hashPassword(user.password);
