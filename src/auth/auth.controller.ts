@@ -20,3 +20,4 @@ export class AuthController {
 // Commit 25 - user.password = await hashPassword(user.password);
 // Commit 27 - user.password = await hashPassword(user.password);
 // Commit 32 - console.log('Debug info');
+// Commit 40 - return await this.prisma.user.findMany();
